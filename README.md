@@ -4,6 +4,7 @@ My name is Faisal Hossain and I am a Second Year Software Engineering Student at
 
 ## Languages I am familar with: 
 HTML, CSS, JavaScript <br/>
+NodeJS <br/>
 Python <br/>
 Java <br/>
 C/C++ <br/>

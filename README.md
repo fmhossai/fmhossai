@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Faisal Hossain and I am a Second Year Software Engineering Student at University of Calgary. Thank you for coming to my GitHub page! I like to create small and big programming projects to make life a bit easier.
+
+## Languages I am familar with: 
+HTML, CSS, JavaScript <br/>
+Python <br/>
+Java <br/>
+C/C++ <br/>
+
+## Frameworks and Libraries I am learning:
+React, MaterialUI <br/>
+MongoDB <br/>
 
 <!--
 **fmhossai/fmhossai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

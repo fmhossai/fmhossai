@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Faisal Hossain and I am a Second Year Software Engineering Student at University of Calgary. Thank you for coming to my GitHub page! I like to create small and big programming projects to make life a bit easier.
+My name is Faisal Hossain and I am a Third Year Software Engineering Student at University of Calgary. Thank you for coming to my GitHub page! I like to create small and big programming projects to make life a bit easier.
 
 ## Languages I am familar with: 
 HTML, CSS, JavaScript <br/>
@@ -10,7 +10,7 @@ Java <br/>
 C/C++ <br/>
 
 ## Frameworks and Libraries I am learning:
-React, MaterialUI <br/>
+Flask <br/>
 MongoDB <br/>
 
 <!--
@@ -18,7 +18,7 @@ MongoDB <br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, 
+- 🔭 I’m currently working on Flask 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

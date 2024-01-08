@@ -4,14 +4,16 @@ My name is Faisal Hossain and I am a Third Year Software Engineering Student at 
 
 ## Languages I am familar with: 
 HTML, CSS, JavaScript <br/>
+React <br/>
 NodeJS <br/>
 Python <br/>
 Java <br/>
 C/C++ <br/>
-
-## Frameworks and Libraries I am learning:
 Flask <br/>
 MongoDB <br/>
+
+## Frameworks and Libraries I am learning:
+.NET <br/>
 
 <!--
 **fmhossai/fmhossai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

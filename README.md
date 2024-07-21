@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Faisal Hossain and I am a Third Year Software Engineering Student at University of Calgary. Thank you for coming to my GitHub page! I like to create small and big programming projects to make life a bit easier.
+My name is Faisal and I am a Software Engineering Graduate at University of Calgary. Thank you for coming to my GitHub page! I like to create small and big programming projects to make life a bit easier.
 
 ## Languages I am familar with: 
 HTML, CSS, JavaScript <br/>
